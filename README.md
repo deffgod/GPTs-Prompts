@@ -1,4 +1,4 @@
-# BlackFriday GPTs Prompts And Jailbreaks
+# GPTs Prompts And Jailbreaks
 
 - [Programming](./Programming.md)
 - [Marketing](./Marketing.md)
